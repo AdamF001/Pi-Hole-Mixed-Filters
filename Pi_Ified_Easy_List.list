@@ -1,4 +1,3 @@
-! Non-flagged (Revolving ad servers)
 1getbestf1le3.xyz^
 4t6u1amm3t3n.com^
 9t5.me^
@@ -523,7 +522,6 @@ zaugroaw.net^
 zaushegi.net^
 zrnedsainsteady.info^
 zudrurta.com^
-! Third-party
 0azx1.com^$third-party
 0emn.com^$third-party
 0fmm.com^$third-party
@@ -5944,10 +5942,8 @@ zy16eoat1w.com^$third-party
 zyiis.net^$third-party
 zylstina.xyz^$third-party
 zypenetwork.com^$third-party
-! steepto used for redirection
 adskeeper.co.uk/ghits/
 steepto.com^
-! fiber-ads (https://blog.confiant.com/hong-kong-based-malvertiser-brokers-traffic-to-fake-antivirus-scams-over-100-million-ads-300e251eff06)
 adminpromotion.com^
 adsalesforce.com^
 amazingfunnvideos.com^
@@ -5992,7 +5988,6 @@ travelstool.com^
 upcum.com^
 wallpapersfacts.com^
 wholesomehealthshop.com^
-! Document blocks
 7dp6g2rqzn.com^$document
 7lyonline.com^$document
 andbaybay.club^$document
@@ -6092,7 +6087,6 @@ veletonjectof.pro^$document
 vfghc.com^$document
 wasshoneaningar.pro^$document
 yvsystem.com^$document
-! IP addresses
 104.154.$document
 104.197.$document
 104.198.$document
@@ -6105,13 +6099,9 @@ yvsystem.com^$document
 51.158.$document
 51.77.$document
 51.89.$document
-! Altice / Optimum / CableVision injects ads
-! https://github.com/ryanbr/fanboy-adblock/issues/816
 167.206.10.148^
-! Dodgy skimmers
 bootstrap-js.com^$third-party
 g-statistic.com^$third-party
-! hilltopads
 affroba.net^$third-party
 afriflatry.co^$third-party
 aution.pro^$third-party
@@ -6189,13 +6179,11 @@ vulging.pro^$third-party
 wicktrown.co^$third-party
 xleebhxalb.com^$third-party
 xvika.com^$third-party
-! adsterra
 2p9fyvx.com^$third-party
 bjcvibh.com^$third-party
 bxnvdau.com^$third-party
 g5fzq2l.com^$third-party
 sa2xskt.com^$third-party
-! Propellerads
 0026645142c89aeb1.com^$third-party
 006a039c957c142bb.com^$third-party
 00aaa2d81c1d174.com^$third-party
@@ -6724,7 +6712,6 @@ hashalre.uk^$third-party
 herowebads.com^$third-party
 hyphenion.com^$third-party
 interdfp.com^$third-party
-! https://forums.lanik.us/viewtopic.php?p=144908#p144908
 1bcde.com^$third-party
 1ccbt.com^$third-party
 abodealley.com^$third-party
@@ -6805,7 +6792,6 @@ trafficoverus.com^$third-party
 turngrind.com^$third-party
 windowmentaria.com^$third-party
 xilbalar.com^$third-party
-! Tag adservers
 1el-1el-fie.com^$third-party
 1elllwrite.com^$third-party
 1han-rit-ten.com^$third-party
@@ -6931,7 +6917,6 @@ zinhavnpak.com^$third-party
 zip-zip-swan.com^$third-party
 zlacraft.com^$third-party
 zorango.com^$third-party
-! Mobile
 adbuddiz.com^$third-party
 adcolony.com^$third-party
 adiquity.com^$third-party
@@ -6964,7 +6949,6 @@ vungle.com^$third-party
 wapdollar.in^$third-party
 waptrick.com^$third-party
 yieldmo.com^$third-party
-! Admiral
 acrididae.com^$third-party
 actuallysheep.com^$third-party
 agreeableprice.com^$third-party
@@ -6993,10 +6977,8 @@ smilingsock.com^$third-party
 sneakystamp.com^$third-party
 stormyshock.com^$third-party
 succeedscene.com^$third-party
-! Non-English (instead of whitelisting ads)
 adhood.com^$third-party
 atresadvertising.com^$third-party
-! admeasures.com
 0a0qetx8et.com^$third-party
 0gctp5ht.top^$third-party
 0j7z9aw6.top^$third-party
@@ -7313,7 +7295,6 @@ zinphyra.com^$third-party
 zjo0tjqpm1.com^$third-party
 zrav2wkbrs.com^$third-party
 zu4l167j77.com^$third-party
-! popads.net
 aabmxezph.com^$third-party
 aagmbroxruno.com^$third-party
 aaitudxr.com^$third-party
@@ -14647,7 +14628,6 @@ zzrdvzryaiwsin.com^$third-party
 zzwajufm.com^$third-party
 zzxlukodff.com^$third-party
 zzxosget.com^$third-party
-! Chameleon Advertising Technologies
 addonsmash.com^$third-party
 axeldivision.com^$third-party
 chameleon.ad^$third-party
@@ -14660,7 +14640,6 @@ securesurf.biz^$third-party
 smashnewtab.com^$third-party
 spiralstab.com^$third-party
 yatab.net^$third-party
-! Yavli.com
 0nso0tq1sa4.ml^$image,third-party
 23rsdsfdsf.com^$image,third-party
 247view.net^$image,third-party
@@ -14754,7 +14733,6 @@ weufdhsas.com^$image,third-party
 wfghrgscs.com^$image,third-party
 wqtdtstdxg.com^$image,third-party
 zcrfefgrg.com^$image,third-party
-! ruamupr.com^$image,third-party
 selectr.net^$image,third-party
 thiscdn.com^$image,third-party
 totallifeguru.com^$image,third-party
@@ -14767,7 +14745,6 @@ yobr.net^$image,third-party
 yodr.net^$image,third-party
 yvsystem.com^$image,third-party
 ziccardia.com^$image,third-party
-! "info" adservers
 adalgo.info^$third-party
 adwalte.info^$third-party
 antotu.info^$third-party
@@ -14831,7 +14808,6 @@ umekana.ru^$third-party
 urmilan.info^$third-party
 vatname.info^$third-party
 yatnozin.info^$third-party
-! uponit adservers
 acrabakasaka.com^
 ajkelra.com^
 akailoparzapi.com^
@@ -15010,7 +14986,6 @@ zorbikala.com^
 zortinah.com^
 zozolilla.com^
 zukabota.com^
-!
 arana.pw^
 beiren.xyz^
 daecan.xyz^
@@ -15057,7 +15032,6 @@ yllanala.pw^
 yllasatra.xyz^
 zinlar.pw^
 zumhice.pw^
-! runative.com
 459517eb349739b.com^
 551f044b1a3f4ef.com^
 ae7c783736eb2ff.com^
